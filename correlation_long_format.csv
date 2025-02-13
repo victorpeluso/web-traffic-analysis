@@ -1,0 +1,31 @@
+Variable 1,Variable 2,Correlation
+Page Views,Session Duration,-0.012788076660830799
+Page Views,Bounce Rate,0.030222692610979325
+Page Views,Time on Page,0.023941385705303107
+Page Views,Previous Visits,0.028595232903163032
+Page Views,Conversion Rate,0.12663537260128005
+Session Duration,Page Views,-0.012788076660830799
+Session Duration,Bounce Rate,-0.015931412010136654
+Session Duration,Time on Page,-0.013985346181566632
+Session Duration,Previous Visits,-0.025534207561026628
+Session Duration,Conversion Rate,0.1777980252792824
+Bounce Rate,Page Views,0.030222692610979325
+Bounce Rate,Session Duration,-0.015931412010136654
+Bounce Rate,Time on Page,0.039339783029002075
+Bounce Rate,Previous Visits,-0.015860024207605346
+Bounce Rate,Conversion Rate,-0.04905103837542471
+Time on Page,Page Views,0.023941385705303107
+Time on Page,Session Duration,-0.013985346181566632
+Time on Page,Bounce Rate,0.039339783029002075
+Time on Page,Previous Visits,-0.0287293223907371
+Time on Page,Conversion Rate,0.22966875782746535
+Previous Visits,Page Views,0.028595232903163032
+Previous Visits,Session Duration,-0.025534207561026628
+Previous Visits,Bounce Rate,-0.015860024207605346
+Previous Visits,Time on Page,-0.0287293223907371
+Previous Visits,Conversion Rate,0.10949602042281101
+Conversion Rate,Page Views,0.12663537260128005
+Conversion Rate,Session Duration,0.1777980252792824
+Conversion Rate,Bounce Rate,-0.04905103837542471
+Conversion Rate,Time on Page,0.22966875782746535
+Conversion Rate,Previous Visits,0.10949602042281101
